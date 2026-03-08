@@ -4,9 +4,8 @@ An end-to-end Mobile Sales Analytics dashboard built in Power BI
 analyzing sales performance across brands, distributors, operators 
 and regions.
 
-![Dashboard](mobile_sales_analytics/Page1.png)
-![Dashboard](mobile_sales_analytics/Page%202.png)
-
+![Page1](Page1.png)
+![Page2](Page2.png)
 
 ## Project Overview
 Built a 4-page interactive dashboard using real-world mobile sales 
